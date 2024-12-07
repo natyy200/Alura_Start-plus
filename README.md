@@ -1,5 +1,5 @@
-## Alura Start Plus
+# Alura Start Plus
 
-# Fiz algumas modificações utilizando javascript 
+## Fiz algumas modificações utilizando javascript 
 
-# site: https://alura-start-plus.vercel.app/
+## site: https://alura-start-plus.vercel.app/
